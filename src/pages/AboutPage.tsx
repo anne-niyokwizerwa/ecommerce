@@ -27,10 +27,10 @@ const AboutPage = () => {
               <div>
                 <h2 className="text-3xl font-bold mb-4">Our Story</h2>
                 <p className="text-gray-700 mb-4">
-                  TechEdge was founded in 2020 with a simple mission: to create premium tech accessories that enhance the modern lifestyle without compromising on quality or design.
+                  TechEdge was founded in 2024 with a simple mission: to create premium tech accessories that enhance the modern lifestyle without compromising on quality or design.
                 </p>
                 <p className="text-gray-700 mb-4">
-                  As the founder and sole developer, I (Anne Niyokwizerwa) set out to create products that were both functional and beautiful. After months of research and development, TechEdge was born.
+                  As the founder , I (Anne Niyokwizerwa) set out to create products that were both functional and beautiful. After months of research and development, TechEdge was born.
                 </p>
                 <p className="text-gray-700">
                   Today, I'm proud to offer a curated collection of high-quality tech accessories that help customers elevate their everyday tech experience. From premium charging solutions to elegant stands and holders, every product is designed with purpose and crafted with care.
@@ -98,7 +98,7 @@ const AboutPage = () => {
             <div className="max-w-2xl mx-auto text-center">
               <div className="rounded-full overflow-hidden w-40 h-40 mx-auto mb-6">
                 <img
-                  src="https://images.unsplash.com/photo-1494790108377-be9c29b29330"
+                  src="/Images/Developer-image.jpeg"
                   alt="Anne Niyokwizerwa"
                   className="w-full h-full object-cover"
                 />

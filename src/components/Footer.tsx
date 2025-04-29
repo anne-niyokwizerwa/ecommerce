@@ -91,7 +91,7 @@ const Footer = () => {
 
         <div className="mt-8 pt-8 border-t border-gray-700 text-gray-300 text-sm flex flex-col md:flex-row justify-between">
           <p>© {year} TechEdge. All rights reserved.</p>
-          <p>Designed and developed by Tech Enthusiasts.</p>
+          <p>Designed and developed by Anne Niyokwizerwa.</p>
         </div>
       </div>
     </footer>
